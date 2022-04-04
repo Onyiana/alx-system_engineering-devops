@@ -1,0 +1,1 @@
+echo 'grep '^[[:alpha:]]' /etc/ssh/sshd_config' >> 18-letteronly
